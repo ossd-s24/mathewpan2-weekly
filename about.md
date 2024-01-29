@@ -4,9 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Junior in computer science.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Trying to get better at web dev.
 
