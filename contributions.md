@@ -18,10 +18,8 @@ Replace the first row with your own contribution.
 
 
 
-
-
 | Date #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
-| Feb 3   | link to my contribution    | course website    |   I fixed a broken link.    |
-|     |     |     |      |
+| Feb 12   | [link to my contribution](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion/issues/15#issuecomment-1938088244)  | Issue   |   Answered an issue    |
+| Feb 12    | [link to my contribution](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion/issues/13#issuecomment-1938082114)    | Issue     | Answered an issue     |
 |     |     |     |      |
