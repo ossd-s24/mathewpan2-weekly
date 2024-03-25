@@ -27,3 +27,9 @@ Replace the first row with your own contribution.
 |Feb 20|[link](https://en.wikipedia.org/w/index.php?title=Neuro-sama&diff=prev&oldid=1209281155)|Wikipedia edit|Added some background information to page|
 |Feb 25|[link](https://www.openstreetmap.org/changeset/147914680) |OpenStreetMap| Added information about starbucks |
 |Feb 25|[link](https://www.openstreetmap.org/changeset/147914747)|OpenStreetMap | Added point for best buy|
+|Mar 25| [link](https://en.wikipedia.org/w/index.php?title=Trimellitic_anhydride&oldid=1215453569)|Wikipedia edit | Added a more detailed description of the chemical|
+|Mar 25 |[link](https://en.wikipedia.org/w/index.php?title=Neuro-sama&oldid=1215454280) | Wikipedia edit | Changed phrasing to be a bit more aligned with wikipedia's tone |
+|Mar 25|[link](https://www.openstreetmap.org/edit#map=18/40.68065/-73.96954)| OpenStreetMap| Added available sports for chelsea piers brooklyn|
+|Mar 25| [link](https://www.openstreetmap.org/edit#map=20/40.68724/-73.97527)| OpenStreetMap| Added address and phone number for Labagel|
+|Mar 25|[link](https://en.wikipedia.org/w/index.php?title=Tax_expenditure&oldid=1215458982)| Wikipedia edit| Removed a broken link|
+
