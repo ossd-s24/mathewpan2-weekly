@@ -32,4 +32,6 @@ Replace the first row with your own contribution.
 |Mar 25|[link](https://www.openstreetmap.org/edit#map=18/40.68065/-73.96954)| OpenStreetMap| Added available sports for chelsea piers brooklyn|
 |Mar 25| [link](https://www.openstreetmap.org/edit#map=20/40.68724/-73.97527)| OpenStreetMap| Added address and phone number for Labagel|
 |Mar 25|[link](https://en.wikipedia.org/w/index.php?title=Tax_expenditure&oldid=1215458982)| Wikipedia edit| Removed a broken link|
+|Apr 12| [link](https://www.openstreetmap.org/changeset/149931507) | OpenStreetMap | Added phone number and address for Endless Brewing Life| 
+|Apr 12| [link](https://www.openstreetmap.org/changeset/149931575)| OpenStreetMap | Added website and updated menu information| 
 
