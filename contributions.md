@@ -34,4 +34,8 @@ Replace the first row with your own contribution.
 |Mar 25|[link](https://en.wikipedia.org/w/index.php?title=Tax_expenditure&oldid=1215458982)| Wikipedia edit| Removed a broken link|
 |Apr 12| [link](https://www.openstreetmap.org/changeset/149931507) | OpenStreetMap | Added phone number and address for Endless Brewing Life| 
 |Apr 12| [link](https://www.openstreetmap.org/changeset/149931575)| OpenStreetMap | Added website and updated menu information| 
+|Apr 16| [link](https://en.wikipedia.org/w/index.php?title=Neuro-sama&oldid=1219186610) | Wikipedia | Reformatted sentence| 
+|Apr 16| [link](https://en.wikipedia.org/w/index.php?title=Neuro-sama&oldid=1219187391) | Wikipedia | Updated history to include more recent events| 
+
+
 
