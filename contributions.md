@@ -36,6 +36,8 @@ Replace the first row with your own contribution.
 |Apr 12| [link](https://www.openstreetmap.org/changeset/149931575)| OpenStreetMap | Added website and updated menu information| 
 |Apr 16| [link](https://en.wikipedia.org/w/index.php?title=Neuro-sama&oldid=1219186610) | Wikipedia | Reformatted sentence| 
 |Apr 16| [link](https://en.wikipedia.org/w/index.php?title=Neuro-sama&oldid=1219187391) | Wikipedia | Updated history to include more recent events| 
+|Apr 23| [link](https://www.openstreetmap.org/changeset/150376546) | OpenStreetMap | added phone number and address for Victory Vision Care |
+|Apr 23| [link](https://www.openstreetmap.org/changeset/150376829)| OpenStreetMap | added opening time for starbucks |
 
 
 
