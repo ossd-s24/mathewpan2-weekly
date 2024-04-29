@@ -40,8 +40,9 @@ Replace the first row with your own contribution.
 |Apr 23| [link](https://www.openstreetmap.org/changeset/150376829)| OpenStreetMap | added opening time and phone number for starbucks |
 |Apr 28| [link](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI/issues/2022#issuecomment-2081839673)| GIthub Issue | helped with issue about models |
 |Apr 28|[link](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI/issues/2017#issuecomment-2081845842)|Github Issue| helped with issue about cuda oom |
-
-
+|Apr 29| [link](https://www.openstreetmap.org/changeset/150643343) | OpenStreetMap | Upated resturant status to closed |
+|Apr 29| [link](https://en.wikipedia.org/w/index.php?title=The_Vtuber_Awards&oldid=1221309235) | Wikipedia | Added information about awards |
+|Apr 29| [link](https://en.wikipedia.org/w/index.php?title=The_Vtuber_Awards&oldid=1221309427) | Wikipedia | Standarized word choice| 
 
 
 
