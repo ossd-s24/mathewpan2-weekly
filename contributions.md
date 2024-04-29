@@ -43,6 +43,11 @@ Replace the first row with your own contribution.
 |Apr 29| [link](https://www.openstreetmap.org/changeset/150643343) | OpenStreetMap | Upated resturant status to closed |
 |Apr 29| [link](https://en.wikipedia.org/w/index.php?title=The_Vtuber_Awards&oldid=1221309235) | Wikipedia | Added information about awards |
 |Apr 29| [link](https://en.wikipedia.org/w/index.php?title=The_Vtuber_Awards&oldid=1221309427) | Wikipedia | Standarized word choice| 
+|Apr 29| [link](https://en.wikipedia.org/w/index.php?title=Aka_Akasaka&oldid=1221310634) | Wikipedia | Added information to bio about new work |
+|Apr 29| [link](https://en.wikipedia.org/w/index.php?title=Mitsuru_Adachi&oldid=1221312188) | Wikipedia | Added information about manga about author's brother| 
+|Apr 29| [link](https://www.openstreetmap.org/changeset/150644192) | OpenStreetMap | Added address and phone number| 
+|Apr 29| [link](https://www.openstreetmap.org/changeset/150644320) | OpenStreetMap | Added point for Berlin Doner (a resturant) |
+|Apr 29| [link](https://www.openstreetmap.org/changeset/150644378) | OpenStreetMap |Added point for Maestro Pasta (a resturant) | 
 
 
 
